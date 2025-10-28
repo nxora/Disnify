@@ -36,7 +36,7 @@ Browse through a collection of Disney characters, see their TV shows and film ap
 
 ## 📸 Screenshot
 
-![Disney Characters Explorer Preview](https://github.com/nxora/Disnify/blob/master/public/preview.png?raw=true)
+public/preview.png
 
 🛠️ Installation & Setup
 Follow these steps to get the project running locally:
